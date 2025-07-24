@@ -15,3 +15,4 @@ Supports Sustainable Development Goal 3: Good Health and Well-being
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+```
