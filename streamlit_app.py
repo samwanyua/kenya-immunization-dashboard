@@ -181,5 +181,9 @@ st.plotly_chart(radar_fig, use_container_width=True)
 
 
 
-# Footer
-st.caption("Data: Kenya Health Datasets | Dashboard by [Samuel Wanyua]")
+# --- Footer ---
+st.markdown("---")
+st.caption(
+    "Data Source: [Kenya Open Data - Immunization 2022](https://kenya.opendataforafrica.org/wcbabvf/immunization-data-for-kenya-2022)  |  "
+    "Dashboard by [Samuel Wanyua](https://github.com/samwanyua/kenya-immunization-dashboard)"
+)
