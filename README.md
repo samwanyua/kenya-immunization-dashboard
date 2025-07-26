@@ -8,7 +8,7 @@ An interactive **Streamlit dashboard** visualizing immunization coverage across 
 
 ---
 
-###  Features
+### Project Features
 
 - Interactive map of national coverage by immunization indicator
 - Bar chart of all indicators for a selected county
