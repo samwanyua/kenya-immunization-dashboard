@@ -4,7 +4,7 @@ An interactive **Streamlit dashboard** visualizing immunization coverage across 
 
 **Live Demo**: [Click here to view the dashboard](https://wanyua-kenya-immunization-2022-dashboard-v1.streamlit.app/)
 
-[Data source](https://kenya.opendataforafrica.org/wcbabvf/immunization-data-for-kenya-2022)
+[Data source]: (https://kenya.opendataforafrica.org/wcbabvf/immunization-data-for-kenya-2022)
 
 ---
 
