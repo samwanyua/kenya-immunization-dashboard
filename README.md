@@ -37,7 +37,7 @@ By making this information accessible and actionable, the dashboard helps to ens
 
 ---
 
-###  Run Locally
+###  Run the project locally
 
 ```bash
 # Clone the repository
