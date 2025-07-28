@@ -19,7 +19,7 @@ An interactive **Streamlit dashboard** visualizing immunization coverage across 
 
 ---
 
-###  SDG Focus
+###  Goal
 
 Supports Sustainable Development Goal 3: Good Health and Well-being
 
